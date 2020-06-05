@@ -117,7 +117,7 @@ Because this involves Microsoft Graph, you need to ask/bribe someone with the 'G
 
 * Go to the ‘Overview’ screen of the SPN, and document the ‘Application Id’ and 'Tenant Id'
 
-![](/assets/images/20200605_11.png)
+![](/assets/images/20200605_12.png)
 
 Ok, phew, step 1 done! So what's next?
 
@@ -131,11 +131,11 @@ For this you either need to have, or need someone that has the permission to man
 
 * Click on 'recipients' and then on 'groups'
 
-![](/assets/images/20200605_12.png)
+![](/assets/images/20200605_13.png)
 
 * Click on the arrow next to ‘New Office 365 group’ and then choose ‘Mail-Enabled security group’
 
-![](/assets/images/20200605_13.png)
+![](/assets/images/20200605_14.png)
 
 * Fill in the following details:
     * The display name of the group (eg ‘requestor app name SendMail group’)
@@ -144,7 +144,7 @@ For this you either need to have, or need someone that has the permission to man
     * On the members section, click the ‘+’ sign and add any mailboxes that need to be used by the application for sending mails
     * Click ‘Save’ to create the group. Note down the e-mail address of the group.
 
-![](/assets/images/20200605_14.png)
+![](/assets/images/20200605_15.png)
 
 
 Ok, now we can setup the access policy itself. For this, we need to whip out our PowerShell skills.
