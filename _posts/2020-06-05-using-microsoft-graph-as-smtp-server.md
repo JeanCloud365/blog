@@ -144,8 +144,6 @@ For this you either need to have, or need someone that has the permission to man
     * On the members section, click the ‘+’ sign and add any mailboxes that need to be used by the application for sending mails
     * Click ‘Save’ to create the group. Note down the e-mail address of the group.
 
-![](/assets/images/20200605_15.png)
-
 
 Ok, now we can setup the access policy itself. For this, we need to whip out our PowerShell skills.
 
