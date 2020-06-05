@@ -1,16 +1,17 @@
 ---
 exerpt: "Microsoft Graph as a means of sending out mails with your application? It is possible!"
+tags: azure graph o365 office 365
 ---
-Microsoft Graph as a means of sending out mails with your application? It is possible!
+*Microsoft Graph as a means of sending out mails with your application? It is possible!*
 
 
 # The electronic mail, as old as time itself, or at least the sixties
 
 The need to send mails from an application as a means of notification is a very common thing.
 
-99.9% of the time, this need is fulfilled by dropping a SMTP server into the network and use the standard libraries that almost every coding language has to speak to it.
+99.9% of the time, this need is fulfilled by dropping a SMTP server into the network and using the standard libraries that almost every coding language has to speak to it.
 
-This approach is fine! But... you still need to either:
+This approach is fine, even for cloud-based apps! But... you still need to either:
 
 * Buy or rent a SMTP server, be it from an external vendor, or a local IT department
 * Configure it accordingly so that it is not marked as a haven for SPAM mail
@@ -22,7 +23,7 @@ One of the Azure services I love for sending mails is [SendGrid](https://docs.mi
 
 It supports multiple integration interfaces for your application, including the good old SMTP protocol and a REST api (SDK available).
 
-I can't say anything bad about it, especially when moving on-premises, maybe even legacy applications to Azure which are dependant on SMTP being there.
+I can't say anything bad about it, especially when moving on-premises, maybe even legacy applications to Azure which are dependant on SMTP being close by.
 
 However, there is an alternative, that is maybe even more cloud-native than the likes of SendGrid: the [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview).
 
