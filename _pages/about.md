@@ -2,13 +2,11 @@
 permalink: /about/
 title: "About"
 ---
-# https://graph.microsoft.com/beta/me
-
 Hi there!
 
 <img src="/assets/images/1.png" width="128px" height="128px" />
 
-My name is Jan Van Meirvenne, nicknamed "Jean" (French pronounciation, not the English one :)) by friends and colleagues. I live in little, little Belgium and have big, big fun in making the cloud my playground. An inside joke that went too far which transformed my 'professional' nickname to 'Jean Cloud', referring to my fellow Belgian who showcases his epic splits and kicks on the big screen. Although I am nowhere near as famous or as fit, I do love kicking the tires on the Azure platform, and having a split knowledgebase on all its components.
+My name is Jan Van Meirvenne, nicknamed "Jean" (French pronounciation, not the English one :)) by friends and colleagues. I live in little, little Belgium and have big, big fun in making the cloud my playground. An inside joke went too far which transformed my 'professional' nickname to 'Jean Cloud', referring to my fellow Belgian who showcases his epic splits and kicks on the big screen. Although I am nowhere near as famous or as fit, I do love kicking the tires on the Azure platform, and having a split knowledgebase on all its components.
 
 My career started in 2010 as a system engineer doing infrastructure-focused consultancy for the Microsoft System Center stack. While I started off as an IT Professional, I always had a certain affinity with development related activities.
 

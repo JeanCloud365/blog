@@ -17,36 +17,77 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jeanclouddev"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jeanclouddev"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jan-van-meirvenne-6a800b10"
+
+author:
+  name             : "Jan Van Meirvenne"
+  avatar           : "/assets/images/1.png"
+  bio              : "nicknamed 'Jean Cloud', I have a knowledge split across the Azure platform, while getting a kick out of modernizing apps, data and identity"
+  location         : "Belgium"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jeanclouddev"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jeanclouddev"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jan-van-meirvenne-6a800b10"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 title: Jean Cloud
 email: jan@jeancloud.dev
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "nicknamed 'Jean Cloud', I have a knowledge split across the Azure platform, while getting a kick out of modernizing apps, data and identity"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.jeancloud.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeanclouddev
 github_username:  jeanclouddev
-
+paginate: 5
+paginate_path: /page:num/
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
 
 repository: JeanCloudDev/JeanCloudDev
 minimal_mistakes_skin: dark
 logo: "/assets/images/logo1.png"
-subtitle: "Kicking & Splitting the Azure platform"
+subtitle: "Kicking & Splitting on the Azure platform"
 
 defaults:
-  # _posts
+   # _posts
   - scope:
       path: ""
       type: posts
     values:
+      layout: single
+      author_profile: true
+      read_time: true
       comments: true
+      share: true
+      related: true
    # _pages
   - scope:
       path: ""
