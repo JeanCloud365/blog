@@ -4,7 +4,6 @@ title: "About"
 ---
 Hi there!
 
-<img src="/assets/images/1.png" width="128px" height="128px" />
 
 My name is Jan Van Meirvenne, nicknamed "Jean" (French pronounciation, not the English one :)) by friends and colleagues. I live in little, little Belgium and have big, big fun in making the cloud my playground. An inside joke went too far which transformed my 'professional' nickname to 'Jean Cloud', referring to my fellow Belgian who showcases his epic splits and kicks on the big screen. Although I am nowhere near as famous or as fit, I do love kicking the tires on the Azure platform, and having a split knowledgebase on all its components.
 
