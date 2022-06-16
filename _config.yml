@@ -21,10 +21,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jeanclouddev"
+      url: "https://twitter.com/jeancloud365"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jeanclouddev"
+      url: "https://github.com/jeancloud365"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jan-van-meirvenne-6a800b10"
@@ -37,10 +37,10 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jeanclouddev"
+      url: "https://twitter.com/jeancloud365"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jeanclouddev"
+      url: "https://github.com/jeancloud365"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jan-van-meirvenne-6a800b10"
@@ -53,12 +53,12 @@ excerpt_separator: "\n\n"
 incremental: false
 
 title: Jean Cloud
-email: jan@jeancloud.dev
+email: jan@jvm-net.com
 description: "nicknamed 'Jean Cloud', I have a knowledge split across the Azure platform, while getting a kick out of modernizing apps, data and identity"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.jeancloud.dev" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jeanclouddev
-github_username:  jeanclouddev
+url: "https://www.jean365.cloud" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jeancloud365
+github_username:  jeancloud365
 paginate: 5
 paginate_path: /page:num/
 # Build settings
@@ -71,7 +71,7 @@ plugins:
   - jekyll-include-cache
 
 
-repository: JeanCloudDev/JeanCloudDev
+repository: JeanCloud365/blog
 minimal_mistakes_skin: dark
 logo: "/assets/images/logo1.png"
 subtitle: "Kicking & Splitting on the Azure platform"
@@ -105,7 +105,7 @@ comments:
 search: true
 
 twitter:
-  username: "JeanCloudDev"
+  username: "JeanCloud365"
 
 include: ["_pages"]
 # Exclude from processing.
