@@ -52,7 +52,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-title: Jean Cloud
+title: Jean Cloud 365
 email: jan@jvm-net.com
 description: "nicknamed 'Jean Cloud', I have a knowledge split across the Azure platform, while getting a kick out of modernizing apps, data and identity"
 baseurl: "" # the subpath of your site, e.g. /blog
