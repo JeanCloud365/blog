@@ -3,8 +3,8 @@ permalink: /contact/
 title: "Contact"
 ---
 
-* E-mail: [jan@jeancloud.dev](mailto:jan@jeancloud.dev)
-* Twitter: [@JeanCloudDev](https://twitter.com/JeanCloudDev)
+* E-mail: [jan@jvm-net.com](mailto:jan@jvm-net.com)
+* Twitter: [@JeanCloudDev](https://twitter.com/JeanCloud365)
 * Linkedin: [My Profile](https://www.linkedin.com/in/jan-van-meirvenne-6a800b10/)
 
 
