@@ -4,7 +4,7 @@ title: "Contact"
 ---
 
 * E-mail: [jan@jvm-net.com](mailto:jan@jvm-net.com)
-* Twitter: [@JeanCloudDev](https://twitter.com/JeanCloud365)
+* Twitter: [@JeanCloud365](https://twitter.com/JeanCloud365)
 * Linkedin: [My Profile](https://www.linkedin.com/in/jan-van-meirvenne-6a800b10/)
 
 
