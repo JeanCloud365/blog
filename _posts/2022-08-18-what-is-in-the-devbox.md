@@ -59,7 +59,7 @@ How can we tackle this? We need to bring the capability to spin up developer VDI
 
 ## What's in the DevBox?
 
-![architecture](/assets/images/microsoft-devbox.png)
+[ ![architecture](/assets/images/microsoft-devbox.png) ](/assets/images/microsoft-devbox.png)
 > NOTE: download this image and open it in draw.io to have the original drawing!
 
 DevBox is actually Windows365, but ripped out of the Microsoft 365 stack and put in the Azure management one with a self-service sauce on top. You still [need](https://azure.microsoft.com/en-us/pricing/details/dev-box/) to have per-user a license that permits the right to use Windows and [Microsoft Endpoint Manager](https://www.microsoft.com/en-ww/security/business/microsoft-endpoint-manager) for management (eg P1,E5,...).
