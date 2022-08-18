@@ -2,7 +2,7 @@
 exerpt: "What's inside the DevBox? A close look at the why and how of Microsoft's developer VDI offering"
 tags: azure devbox virtual desktop windows
 ---
-*What's inside the DevBox? A close look at the why and how of Microsoft's developer VDI offering*
+*What's inside the DevBox? A close look at the why, what and how of Microsoft's developer VDI offering*
 
 
 Microsoft announced their [DevBox](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063) product at Build 2022 and since the 15th of August, 2022 we can all try it out as [public preview](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-dev-box/)! What does it mean and what is the unique selling point versus existing, similar Microsoft services? Lets find out!
