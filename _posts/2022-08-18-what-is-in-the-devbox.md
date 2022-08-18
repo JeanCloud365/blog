@@ -117,7 +117,7 @@ Whereas Windows365 requires additional, fixed cost licenses and is managed by th
 
 Whereas Azure Virtual Desktop required a rollout and management of additional pools via a central IT team, with DevBox a combination of DevOps infra teams and project administrators can set up all the infrastructure and instantly enable developers to consume it.
 
-**The value proposition of DevBox is the fact that you can offload the IT cost & operational overhead** in the spin-up and down of developer VDI's. This by providing a self-service platform operated by a project manager and team on a per-need base, with automatic distribution of costs.
+**The value proposition of DevBox is the fact that you can offload the IT cost & operational overhead** in the spin-up and down of developer VDI's. This by providing a self-service platform operated by a project manager and team on a per-need base, with automatic distribution of costs, which in turn **decreases the time needed to get developers productive**.
 
 
 
