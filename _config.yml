@@ -31,7 +31,7 @@ footer:
 
 author:
   name             : "Jan Van Meirvenne"
-  avatar           : "/assets/images/1.png"
+  #avatar           : "/assets/images/1.png"
   bio              : "nicknamed 'Jean Cloud', I have a knowledge split across the Azure platform, while getting a kick out of modernizing apps, data and identity"
   location         : "Belgium"
   links:
@@ -73,7 +73,7 @@ plugins:
 
 repository: JeanCloud365/blog
 minimal_mistakes_skin: dark
-logo: "/assets/images/logo1.png"
+#logo: "/assets/images/logo1.png"
 subtitle: "Kicking & Splitting on the Azure platform"
 
 defaults:
