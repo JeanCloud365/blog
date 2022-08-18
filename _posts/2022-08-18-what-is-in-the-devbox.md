@@ -9,7 +9,7 @@ Microsoft announced their [DevBox](https://techcommunity.microsoft.com/t5/azure-
 
 ## The rise, fall, and resurrection of VDI through IT history
 
-VDI (short for Virtual Desktop Infrastructure) always was an interesting technology to me. The premise of having your digital working environment fully cloud-based in a VM, resilient to hardware failures and aging is something I use and love for both my professional as personal use. However, it is also a source of headaches for the IT administrator:
+VDI (short for Virtual Desktop Infrastructure) always has been an interesting technology to me. The premise of having your digital working environment fully cloud-based in a VM, resilient to hardware failures and aging is something I use and love for both my professional as personal workloads. However, it is also a source of headaches for the IT administrator:
 
 * If it is a shared VDI, making sure everybody gets a piece of the performance cake, and prevent that somebody is eating it all. A solution is to switch to personal VDI, but this increases the costs
 * Making sure that all software needed for an employee is available and up-to-date. In some cases even manage different images based on the employee profile
