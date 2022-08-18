@@ -4,7 +4,8 @@ tags: azure devbox virtual desktop windows
 ---
 *What's inside the DevBox? A close look at the why and how of Microsoft's developer VDI offering*
 
-Microsoft announced their [DevBox](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063) product at Build 2022 and since the 15th of August, 2022 we can all try it out as [public preview]([Public preview: Microsoft Dev Box | Azure updates | Microsoft Azure](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-dev-box/))! What does it mean and what is the unique selling point versus existing, similar Microsoft services? Lets find out!
+
+Microsoft announced their [DevBox](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063) product at Build 2022 and since the 15th of August, 2022 we can all try it out as [public preview](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-dev-box/)! What does it mean and what is the unique selling point versus existing, similar Microsoft services? Lets find out!
 
 ## The rise, fall, and resurrection of VDI through IT history
 
@@ -58,7 +59,7 @@ How can we tackle this? We need to bring the capability to spin up developer VDI
 
 ## What's in the DevBox?
 
-![architecture](2022-08-18-microsoft-devbox-for-secure-selfservice-local-development-in-azure.png)
+![architecture](/assets/images/2022-08-18-microsoft-devbox-for-secure-selfservice-local-development-in-azure.png)
 
 DevBox is actually Windows365, but ripped out of the Microsoft 365 stack and put in the Azure management one with a self-service sauce on top. You still [need](https://azure.microsoft.com/en-us/pricing/details/dev-box/) to have per-user a license that permits the right to use Windows and [Microsoft Endpoint Manager](https://www.microsoft.com/en-ww/security/business/microsoft-endpoint-manager) for management (eg P1,E5,...).
 
